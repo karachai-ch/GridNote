@@ -35,7 +35,6 @@ Material List:
 - Waveshare 7.5" E-Ink HAT (B)800×480 red/black/white display1
 - MicroSD Card 16GB Class 10OS and firmware storage1
 - Micro-USB Cable 1.5m
-- USB Power Adapter 5V/2AWall power supply
 </html>
 
 
