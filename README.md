@@ -20,13 +20,17 @@ I've noticed a struggle in keeping my to-do lists all together.
 So I invented a solution that keeps me off my phone, and my to-do list will always be visable.
 
 Screenshots:
+Wiring = <img width="731" height="503" alt="image" src="https://github.com/user-attachments/assets/b805337c-2b9e-43cd-b368-769f6045586d" />
+(Credits to https://peppe8o.com/)
+
+3D Model for case = <img width="746" height="487" alt="image" src="https://github.com/user-attachments/assets/d85711e1-82c6-41f1-80d6-0d00f045568a" />
 
 Material List:
-Raspberry Pi Zero 2WQuad-core 64-bit ARM, WiFi/BT1
-Waveshare 7.5" E-Ink HAT (B)800×480 red/black/white display1
-MicroSD Card 16GB Class 10OS and firmware storage1
-Micro-USB Cable 1.5m
-USB Power Adapter 5V/2AWall power supply
+- Raspberry Pi Zero 2WQuad-core 64-bit ARM, WiFi/BT1
+- Waveshare 7.5" E-Ink HAT (B)800×480 red/black/white display1
+- MicroSD Card 16GB Class 10OS and firmware storage1
+- Micro-USB Cable 1.5m
+- USB Power Adapter 5V/2AWall power supply
 
 
 
