@@ -15,7 +15,7 @@ How to Use:
    
 9. The display will refresh every 30 minutes
 
-<p>For further setup instructions see <a href="https://example.com">firmware/README.md</a> for more info.</p>
+<p>For further setup instructions see <a href="https://github.com/karachai-ch/GridNote/blob/main/firmware/README.md">firmware/README.md</a> for more info.</p>
 <br>
 
 </br> Why Exactly Did I Make this?
